@@ -1,5 +1,5 @@
-export default function Husky() {
-  return
+export function Husky() {
+  return (
   <main>
     <h1>Siberian Husky — Strengths & Weaknesses</h1>
     <h2>Strengths</h2>
@@ -42,4 +42,5 @@ export default function Husky() {
       Less likely to panic from minor injuries.
     </p>
   </main>
+  );
 }
