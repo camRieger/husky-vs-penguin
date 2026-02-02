@@ -1,6 +1,6 @@
 export function HuskyAbout() {
   return (
-  <section>
+  <section className="p-4">
 		<header>
 			<h1 className="mb-4 text-2xl font-bold tracking-tight text-heading md:text-5xl lg:text-6xl">Siberian Husky</h1>
 		</header>
